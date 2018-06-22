@@ -1,8 +1,8 @@
 # BN-TWO
 
-Blue Neon Night
+Blue Neon Night Two
 
-Version 2
+Version 0.01
 
 Scene Graph Edition
 
