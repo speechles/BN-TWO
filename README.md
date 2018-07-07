@@ -11,3 +11,5 @@ Scene Graph Edition
 sdka: https://emby.media/community/index.php?/topic/24151-theme-blue-neon-night/
 
 rsga: WIP - stay tuned
+
+2018 (c)opyleft speechles
