@@ -1,5 +1,12 @@
 # BN-TWO
 
+Cannot continue this solo project anymore.
+Recent developments gave me a new path.
+Emby and me build a better world together.
+Busy building a better world.
+
+---------------------
+
 Blue Neon Night Two
 
 Version 0.01
